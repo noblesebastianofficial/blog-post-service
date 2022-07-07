@@ -67,9 +67,9 @@ public class MyAction {
    
 4. Lines 11,28,29 should be in try catch block
 5. Prepared statement  should be used to avoid SQL injection.
-5. Connection is not closed
-6.ORM is mostly preferred in application, if its simple application then JDBC is fine
-7. Object[] objects = new Object[] can be replaced by String array.
-8. Streams would have been used instead of for loop to print fields.
-9.For while(true), there is no end condition. This will result infinite loop 
+6. Connection is not closed
+7. ORM is mostly preferred in application, if its simple application then JDBC is fine
+8. Object[] objects = new Object[] can be replaced by String array.
+9. Streams would have been used instead of for loop to print fields.
+10.For while(true), there is no end condition. This will result infinite loop 
    
